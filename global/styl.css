@@ -8,3 +8,9 @@ h3{
     font-family:Arial, Helvetica, sans-serif ;
     text-underline-position: below;
 }
+ol{
+    font-size: small;
+    background-color: beige;
+    color: brown;
+    font-style: italic bold;
+}
